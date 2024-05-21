@@ -1,8 +1,6 @@
-### <div align="center">I'm Jayce-liang, a front-end developer 👨‍💻</div>  
+### <div align="center">I'm jayce 👨‍💻</div>  
   
-## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayce-liang&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img src="https://komarev.com/ghpvc/?username=Jayce-liang&&style=flat-square" align="center" />
 </div>  
 
