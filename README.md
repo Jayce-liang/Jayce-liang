@@ -16,28 +16,28 @@
 <div>&nbsp;</div>
 
 <div align="center">
-    <a href='https://html.spec.whatwg.org/'>
+    <a style="display:inline-block" href='https://html.spec.whatwg.org/'>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    </a>
-    <a href='https://www.w3.org/Style/CSS/'>
+    <!-- </a> -->
+    <a style="display:inline-block" href='https://www.w3.org/Style/CSS/'>
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     </a>
-    <a href='https://www.ecma-international.org/'>
+    <a style="display:inline-block" href='https://www.ecma-international.org/'>
         <img src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white"/>
     </a>
-    <a href='https://git-scm.com/'>
+    <a style="display:inline-block" href='https://git-scm.com/'>
         <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white"/>
     </a>
-    <a href='https://react.dev/'>
+    <a style="display:inline-block" href='https://react.dev/'>
         <img src="https://img.shields.io/badge/React-v19-3b82f6?style=flat-square&logo=react&logoColor=3b82f6"/>
     </a>
-    <a href='https://vuejs.org/'>
-        <img src="https://img.shields.io/badge/vue.js-v3-00acd7?logo=vue.js&logoColor=00acd7"/>
+    <a style="display:inline-block" href='https://vuejs.org/'>
+        <img src="https://img.shields.io/badge/Vue.js-v3-00acd7?logo=vue.js&logoColor=00acd7"/>
     </a>
-    <a href='https://nodejs.org/'>
+    <a style="display:inline-block" href='https://nodejs.org/'>
         <img src="https://img.shields.io/badge/node.js-v20.16.0-00acd7?logo=node.js&logoColor=00acd7"/>
     </a>
-    <a href='https://www.python.org/'>
+    <a style="display:inline-block" href='https://www.python.org/'>
         <img src="https://img.shields.io/badge/Python-3.x-326c9c?logo=Python&logoColor=326c9c"/>
     </a>
 </div>
