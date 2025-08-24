@@ -56,7 +56,7 @@
 
 <div>&nbsp;</div>
 
-#### My Coding Project And Language
+<!-- #### My Coding Project And Language -->
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Jayce-liang&theme=tokyonight&show_icons=true" />
@@ -134,7 +134,8 @@ Last Updated on 2025-08-24 14:12:26 UTC
 
 <!--END_SECTION:waka-->
 
-#### My Github Activity Graph
+<div>&nbsp;</div>
+<!-- #### My Github Activity Graph -->
 
 <!-- programming tool icon 编程工具图标 -->
 
