@@ -5,41 +5,41 @@
 <div>&nbsp;</div>
 
 <div align="center">
-	<a href='https://www.microsoft.com/windows/windows-10'>
+	<!-- <a href='https://www.microsoft.com/windows/windows-10'> -->
 		<img src="https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff"/>
 	</a>
-	<a href='https://www.oneplus.com/'>
+	<!-- <a href='https://www.oneplus.com/'> -->
 		<img src="https://img.shields.io/badge/9R-Ultra-red?style=flat-square&logo=oneplus&logoColor=ff0000"/>
-	</a>
+	<!-- </a> -->
 </div>
 
 <div>&nbsp;</div>
 
 <div align="center">
-    <a style="display:inline-block" href='https://html.spec.whatwg.org/'>
+    <!-- <a style="display:inline-block" href='https://html.spec.whatwg.org/'> -->
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <!-- </a> -->
-    <a style="display:inline-block" href='https://www.w3.org/Style/CSS/'>
+    <!-- <a style="display:inline-block" href='https://www.w3.org/Style/CSS/'> -->
         <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    </a>
-    <a style="display:inline-block" href='https://www.ecma-international.org/'>
+    <!-- </a> -->
+    <!-- <a style="display:inline-block" href='https://www.ecma-international.org/'> -->
         <img src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white"/>
-    </a>
-    <a style="display:inline-block" href='https://git-scm.com/'>
+    <!-- </a> -->
+    <!-- <a style="display:inline-block" href='https://git-scm.com/'> -->
         <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white"/>
-    </a>
-    <a style="display:inline-block" href='https://react.dev/'>
+    <!-- </a> -->
+    <!-- <a style="display:inline-block" href='https://react.dev/'> -->
         <img src="https://img.shields.io/badge/React-v19-3b82f6?style=flat-square&logo=react&logoColor=3b82f6"/>
-    </a>
-    <a style="display:inline-block" href='https://vuejs.org/'>
+    <!-- </a> -->
+    <!-- <a style="display:inline-block" href='https://vuejs.org/'> -->
         <img src="https://img.shields.io/badge/Vue.js-v3-00acd7?logo=vue.js&logoColor=00acd7"/>
-    </a>
-    <a style="display:inline-block" href='https://nodejs.org/'>
+    <!-- </a> -->
+    <!-- <a style="display:inline-block" href='https://nodejs.org/'> -->
         <img src="https://img.shields.io/badge/node.js-v20.16.0-00acd7?logo=node.js&logoColor=00acd7"/>
-    </a>
-    <a style="display:inline-block" href='https://www.python.org/'>
+    <!-- </a> -->
+    <!-- <a style="display:inline-block" href='https://www.python.org/'> -->
         <img src="https://img.shields.io/badge/Python-3.x-326c9c?logo=Python&logoColor=326c9c"/>
-    </a>
+    <!-- </a> -->
 </div>
 
 <!--彩虹分割线-->
