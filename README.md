@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img src="https://count.getloli.com/get/@Jayce-liang.github.readme?theme=rule34&scale=2&pixelated=1&num=7&prefix=7" style=" display: block; margin-left: auto; margin-right: auto; height: 200px"/>
 </div>
 
@@ -152,6 +152,7 @@ Last Updated on 2025-08-24 14:12:26 UTC
 	<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 </div>
 <!-- gif -->
+<div>
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/html.webp">
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/cssgif.webp">
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/vscode.webp">
@@ -160,3 +161,4 @@ Last Updated on 2025-08-24 14:12:26 UTC
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/python.webp">
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/js.webp">
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/github.webp">
+</div>
