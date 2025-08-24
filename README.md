@@ -23,7 +23,7 @@
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=Jayce-liang&theme=tokyonight&show_icons=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayce&theme=tokyonight&langs_count=6&layout=compact" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayce-liang&theme=tokyonight&langs_count=6&layout=compact" />
 </div>
 
 
@@ -31,3 +31,38 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka--> 
+
+
+#### My Github Activity Graph
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+
+<!-- svg -->
+<div>
+	<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+	<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+	<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+	<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+	<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+	<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+	<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+	<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+	<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+	<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+	<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+</div>
+<!-- gif -->
+<div>
+	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/html.webp">
+	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/cssgif.webp">
+	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/vscode.webp">
+	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/python.webp">
+	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/js.webp">
+	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/github.webp">
+</div>
+
+<!--彩虹分割线--> 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+[![snake](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
