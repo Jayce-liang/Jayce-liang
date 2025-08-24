@@ -139,7 +139,7 @@ Last Updated on 2025-08-24 14:12:26 UTC
 <!-- programming tool icon 编程工具图标 -->
 
 <div align="center">
-	<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+	<img src="https://skillicons.dev/icons?i=ts,react,vue,blender,twitter,instagram,electron,nodejs,vscode,git" /><br>
 </div>
 
 <!-- svg -->
