@@ -15,7 +15,7 @@
 
 <div>&nbsp;</div>
 
-<div style="display:flex;justify-content:center;align-item:center">
+<div align="center">
     <a href='https://html.spec.whatwg.org/'>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     </a>
@@ -54,6 +54,8 @@
 
 <!-- [![snake](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg) -->
 
+<div>&nbsp;</div>
+
 #### My Coding Project And Language
 
 <div>
@@ -61,7 +63,9 @@
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayce-liang&theme=tokyonight&langs_count=6&layout=compact" />
 </div>
 
-#### 我没有在摸鱼
+<div>&nbsp;</div>
+
+#### 我没有在摸鱼！！！
 
 <!--START_SECTION:waka-->
 
@@ -134,10 +138,12 @@ Last Updated on 2025-08-24 14:12:26 UTC
 
 <!-- programming tool icon 编程工具图标 -->
 
-<img src="https://skillicons.dev/icons?i=ts,react,vue,blender,twitter,instagram,electron,nodejs,vscode,git" /><br>
+<div align="center">
+	<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+</div>
 
 <!-- svg -->
-<div>
+<div align="center">
 	<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 	<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 	<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -152,7 +158,7 @@ Last Updated on 2025-08-24 14:12:26 UTC
 	<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 </div>
 <!-- gif -->
-<div>
+<div align="center">
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/html.webp">
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/cssgif.webp">
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/vscode.webp">
@@ -162,3 +168,5 @@ Last Updated on 2025-08-24 14:12:26 UTC
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/js.webp">
 <img height="65"  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/github.webp">
 </div>
+
+<img  src="https://cdn.jsdelivr.net/gh/Jayce-liang/Jayce-liang/assets/images/icon.png">
