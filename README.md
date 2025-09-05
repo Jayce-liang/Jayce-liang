@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://count.getloli.com/get/@Jayce-liang.github.readme?theme=rule34&scale=2&pixelated=1&num=7&prefix=7" style=" display: block; margin-left: auto; margin-right: auto; height: 200px"/>
+    <img src="https://count.getloli.com/get/@Jayce-liang.github.readme?theme=rule34&scale=2&pixelated=1" style=" display: block; margin-left: auto; margin-right: auto; height: 200px"/>
 </div>
 
 <div>&nbsp;</div>
