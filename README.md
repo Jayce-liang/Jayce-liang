@@ -68,7 +68,7 @@
 #### 我没有在摸鱼！！！
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
@@ -76,7 +76,7 @@
 
 > 📦  使用了 153.8 kB GitHub 存储空间 
  > 
-> 🏆 278 个贡献，在 2026 年
+> 🏆 279 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -87,21 +87,21 @@
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     417 commits         █████████████████░░░░░░░░   67.15 % 
-🌆 白天                     123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-🌃 傍晚                     71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+🌞 早晨                     418 commits         █████████████████░░░░░░░░   67.20 % 
+🌆 白天                     123 commits         █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+🌃 傍晚                     71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 🌙 晚上                     10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 📅 **星期日 时的我最有干劲** 
 
 ```text
-星期一                      103 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-星期二                      81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-星期三                      65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-星期四                      65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-星期五                      77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-星期六                      91 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-星期日                      139 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+星期一                      103 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+星期二                      81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+星期三                      65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+星期四                      65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+星期五                      77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+星期六                      92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+星期日                      139 commits         ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
 ```
 
 
@@ -109,22 +109,44 @@
 
 ```text
 💬 编程语言: 
-Markdown                 10 mins             █████████████████████████   100.00 % 
+JSON                     32 mins             ███████████████░░░░░░░░░░   61.45 % 
+Markdown                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+Vue                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 编辑器: 
-Trae                     10 mins             █████████████████████████   100.00 % 
+VS Code                  31 mins             ███████████████░░░░░░░░░░   60.01 % 
+Trae                     21 mins             ██████████░░░░░░░░░░░░░░░   39.99 % 
 
 🐱‍💻 项目: 
-learn_skill              10 mins             █████████████████████████   100.00 % 
+learn_skill              45 mins             ██████████████████████░░░   86.68 % 
+Unknown Project          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
 
 💻 操作系统: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 33 mins (62.94%)
+
+✍️ 1,487 lines written by AI, 35 lines written by hand (97.7% AI-written)
+
+🔤 52,412 Input Tokens, 39,457 Output Tokens
+
+💵 $12.29 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 10 AI Prompts
+
+Opencode-Cli             1,520 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.7% of written lines came from AI
+📝 Concise Prompter — average 11 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.63% of changed lines were hand-edited
 ```
 
 **我最常使用 HTML** 
@@ -140,7 +162,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-03 03:42:06 UTC
+ Last Updated on 2026-10-04 04:12:08 UTC
 <!--END_SECTION:waka-->
 
 <div>&nbsp;</div>
