@@ -76,7 +76,7 @@
 
 > 📦  使用了 153.9 kB GitHub 存储空间 
  > 
-> 🏆 285 个贡献，在 2026 年
+> 🏆 286 个贡献，在 2026 年
  > 
 > 🚫 不开放招聘
  > 
@@ -87,21 +87,21 @@
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     419 commits         █████████████████░░░░░░░░   66.72 % 
-🌆 白天                     128 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-🌃 傍晚                     71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+🌞 早晨                     419 commits         █████████████████░░░░░░░░   66.61 % 
+🌆 白天                     129 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+🌃 傍晚                     71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 🌙 晚上                     10 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 📅 **星期日 时的我最有干劲** 
 
 ```text
-星期一                      104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-星期二                      82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-星期三                      66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-星期四                      66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-星期五                      78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-星期六                      92 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-星期日                      140 commits         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+星期一                      104 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+星期二                      82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+星期三                      66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+星期四                      66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+星期五                      78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+星期六                      93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+星期日                      140 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
 ```
 
 
@@ -109,44 +109,22 @@
 
 ```text
 💬 编程语言: 
-JSON                     32 mins             ███████████████████░░░░░░   76.52 % 
-Vue                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+本周没有记录到任何活动
 
 🔥 编辑器: 
-VS Code                  31 mins             ███████████████████░░░░░░   74.72 % 
-Trae                     10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+本周没有记录到任何活动
 
 🐱‍💻 项目: 
-learn_skill              35 mins             █████████████████████░░░░   83.42 % 
-Unknown Project          7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+本周没有记录到任何活动
 
 💻 操作系统: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+本周没有记录到任何活动
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (78.37%)
-
-✍️ 1,487 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 52,412 Input Tokens, 39,457 Output Tokens
-
-💵 $12.29 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 10 AI Prompts
-
-Opencode-Cli             1,520 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 11 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 HTML** 
@@ -162,7 +140,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-10 04:13:12 UTC
+ Last Updated on 2026-10-11 03:51:05 UTC
 <!--END_SECTION:waka-->
 
 <div>&nbsp;</div>
